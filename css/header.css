@@ -1,0 +1,196 @@
+.wb-main-header {
+    height: 120px;
+    width: 100%;
+    display: flex;
+    background-color: #fff;
+}
+
+.wb-main-header .logo-area {
+    width: 315px;
+    height: auto;
+    float: left;
+    display: flex;
+    text-align: center;
+    background-color: #ffffff;
+}
+
+.wb-main-header .right-area {
+    width: 100%;
+}
+
+.wb-main-header .logo-area a {
+    margin: auto;
+}
+
+.wb-main-header .right-area .right-top {
+    height: 50%;
+    width: 100%;
+    display: flex;
+}
+
+.wb-main-header .right-area .right-top .left-panel {
+    width: 100%;
+    display: flex;
+}
+
+.wb-main-header .right-area .right-top .right-panel {
+    width: 300px;
+    display: flex;
+}
+
+.wb-main-header .right-area .right-bottom {
+    height: 50%;
+    width: 100%;
+    display: flex;
+    background: transparent linear-gradient(270deg, #f1f1f1 0%, #ffffff 100%) 0% 0% no-repeat padding-box;
+}
+
+.wb-main-header .right-area .right-bottom .menu {
+    width: 80%;
+    display: flex;
+}
+
+.wb-main-header .right-area .right-bottom .signin {
+    width: 20%;
+    display: flex;
+    flex-direction: row-reverse;
+}
+.sm-bids-counter {
+    border: 1px solid #d9d9d9;
+    border-radius: 21px;
+    display: flex;
+    height: 42px;
+    margin: auto 10px;
+    width: 100%;
+}
+.sm-bids-counter .bid-text {
+    width: 100%;
+    display: flex;
+    background: transparent linear-gradient(180deg, #a5e228 0%, #359200 100%) 0% 0% no-repeat padding-box;
+    border-radius: 21px 0px 0px 21px;
+}
+.sm-bids-counter .bid-text span {
+    margin: auto;
+    font-size: 18px;
+    line-height: 30px;
+    font-weight: bold;
+    text-transform: uppercase;
+    color: #fff;
+}
+
+.sm-bids-counter .bid-amount span {
+    margin: auto 12px;
+    font-size: 18px;
+    line-height: 30px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.sm-bids-counter .bid-amount {
+    width: 100%;
+    display: flex;
+}
+
+.sm-bids-counter .add-coins {
+    display: flex;
+}
+.sm-bids-counter .add-coins svg {
+    margin: auto 6px;
+}
+.sm-bids-counter .add-coins svg:hover {
+    cursor: pointer;
+}
+
+.signin .sign-btn {
+    border: 0px solid #d9d9d9;
+    border-radius: 21px;
+    display: flex;
+    height: 40px;
+    margin: auto 10px;
+    background: transparent linear-gradient(180deg, #fdd311 0%, #f89c1c 100%) 0% 0% no-repeat padding-box;
+}
+
+.signin .sign-btn .sign-btn-text {
+    font-size: 20px;
+    line-height: 35px;
+    font-weight: bold;
+    text-transform: uppercase;
+    margin: auto 25px;
+    color: white;
+}
+
+.signin .sign-btn:hover {
+    background: transparent linear-gradient(180deg, #fdd311 0%, #f96f38 100%) 0% 0% no-repeat padding-box;
+}
+
+.wb-main-header .right-area .right-bottom .menu nav {
+    margin: auto 0px;
+}
+.sign-btn-text:hover {
+    text-decoration: none;
+}
+
+nav ul {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    position: relative;
+}
+
+nav ul li {
+    display: inline-block;
+    border: 1px solid #ebebeb;
+    border-radius: 16px;
+    margin: 0px 5px;
+}
+
+nav a {
+    font-size: 19px;
+    line-height: 34px;
+    display: block;
+    padding: 0 15px;
+    color: #5b5b5b;
+    font-weight: 600;
+    text-decoration: none;
+}
+
+nav a:hover {
+    background: transparent linear-gradient(180deg, #fdd311 0%, #f89c1c 100%) 0% 0% no-repeat padding-box;
+    text-decoration: none;
+    border-radius: 16px;
+    color: #ffffff;
+}
+
+/* Hide Dropdowns by Default */
+nav ul ul {
+    display: none;
+    position: absolute;
+    /* the height of the main nav */
+}
+
+/* Display Dropdowns on Hover */
+nav ul li:hover > ul {
+    display: inherit;
+}
+
+/* Fisrt Tier Dropdown */
+nav ul ul li {
+    float: none;
+    display: list-item;
+    position: relative;
+    margin: 5px 0px;
+}
+/* Second, Third and more Tiers */
+nav ul ul ul li {
+    position: relative;
+    top: -60px;
+    left: 170px;
+}
+
+/* Change this in order to change the Dropdown symbol */
+li > a:after {
+    content: " +";
+}
+li > a:only-child:after {
+    content: "";
+}
