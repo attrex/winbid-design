@@ -1,3 +1,5 @@
+
+
 <!DOCTYPE html>
 <html lang="en">
 <title>WinBid.lk</title>
@@ -175,13 +177,16 @@
                     <div class="place-bid d-flex">
                         <div class="bid-here">
                         <input type="text" id="" name="" placeholder="Place Your Bid Here"> 
-                        </div>
-                        <div class="submit-btn ml-3">
+                        </div> 
+                        <div class="submit-btn ml-3 mx-auto">
                         <button type="button">submit</button>
                         </div>        
                     </div>
-                    <div class="bid-status mt-3">
-                    <i class="fas fa-grin"></i><p>You have the Lowest Unique Bid</p>
+                    <div class="bid-status">
+                    <i class="fas fa-grin one"></i><p1>You have the Lowest Unique Bid</p1><br>
+                    <i class="fas fa-frown two"></i><p2>You have the Lowest Unique Bid</p2><br>
+                    <i class="fas fa-meh three"></i><p3>You have the Lowest Unique Bid</p3><br>
+                    <i class="fas fa-meh four"></i><p4>You have the Lowest Unique Bid</p4>
                     </div>           
                 </div>         
         <div>    
@@ -211,7 +216,7 @@
                                     <button type="button"><small>Winner</small></button>
                                     </div>    
                                </div>
-                                 
+
                                </div>
                                  
                            </div>

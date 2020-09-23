@@ -299,6 +299,7 @@ h3{
     padding-bottom: 0 !important;
 }
 
+
 .place-bid .bid-here input{
     background: #FFFFFF 0% 0% no-repeat padding-box;
     border: 1px solid #707070;
@@ -306,7 +307,7 @@ h3{
     opacity: 1;
     width: 265px;
     height: 58px;
-    padding-left: 15px;
+    text-align: center;
    
 }
 
@@ -322,7 +323,7 @@ h3{
     border: none;
 }
 
-.bid-status p{
+.bid-status p1{
     font: normal normal 600 16px/35px Open Sans;
     letter-spacing: 0px;
     color: #57AA19;
@@ -330,12 +331,65 @@ h3{
     display: inline-block;
 }
 
-.bid-status i{
+.bid-status .one{
     color: #57AA19;
     opacity: 1;
     display: inline-block;
     width: 25px;
     height: 25px;
+}
+
+.bid-status p2{
+    font: normal normal 600 16px/35px Open Sans;
+    letter-spacing: 0px;
+    color: #D83434;
+    opacity: 1;
+    display: inline-block;
+}
+
+.bid-status .two{
+    color: #D83434;
+    opacity: 1;
+    display: inline-block;
+    width: 25px;
+    height: 25px;
+}
+
+.bid-status p3{
+    font: normal normal 600 16px/35px Open Sans;
+    letter-spacing: 0px;
+    color: #5B5B5B;
+    opacity: 1;
+    display: inline-block;
+}
+
+.bid-status .three{
+    color:  #5B5B5B;
+    opacity: 1;
+    display: inline-block;
+    width: 25px;
+    height: 25px;
+}
+
+.bid-status p4{
+    font: normal normal 600 16px/35px Open Sans;
+    letter-spacing: 0px;
+    color: #F89C1C;
+    opacity: 1;
+    display: inline-block;
+}
+
+.bid-status .four{
+    color: #F89C1C;
+    opacity: 1;
+    display: inline-block;
+    width: 25px;
+    height: 25px;
+}
+
+.bid-status p1,p2,p3,p4{
+    margin-top: 5px;
+    margin-bottom: 0px !important;
 }
 
 .bg-color{

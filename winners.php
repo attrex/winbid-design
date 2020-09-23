@@ -24,7 +24,7 @@
                     <div class="winner-frame mx-auto">
                         <div class="won-item-img p-4 float-left">
                         <img src="img/Ad sample.jpg" alt="won-item-img" class="img-fluid">
-                         <div class="item-name text-center" style="width: 260px;height: 62px;">
+                         <div class="item-name text-center mt-3" style="width: 260px;height: 62px;">
                             <h3 style="font: normal normal bold 20px/25px Open Sans;color: #231F20;opacity: 1;">Brand New Apple iPhone 11 Pro 256GB</h3>
                          </div>   
                         </div>    
