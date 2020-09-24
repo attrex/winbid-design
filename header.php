@@ -15,7 +15,7 @@
 </head>
 <div class="wb-main-header">
     <div class="logo-area">
-        <a href="#"><img src="img/logo.svg" /></a>
+        <a href="#"><img src="img/logo.svg"/></a>
     </div>
 
     <div class="right-area">

@@ -183,10 +183,10 @@
                         </div>        
                     </div>
                     <div class="bid-status">
-                    <i class="fas fa-grin one"></i><p1>You have the Lowest Unique Bid</p1><br>
-                    <i class="fas fa-frown two"></i><p2>You have the Lowest Unique Bid</p2><br>
-                    <i class="fas fa-meh three"></i><p3>You have the Lowest Unique Bid</p3><br>
-                    <i class="fas fa-meh four"></i><p4>You have the Lowest Unique Bid</p4>
+                    <i class="fas fa-grin one"></i><p1>You have the lowest unique bid</p1><br>
+                    <!-- <i class="fas fa-frown two"></i><p2>You do not have the unique bid</p2><br>
+                    <i class="fas fa-meh three"></i><p3>Your 0.02 bid is below the current unique bid</p3><br>
+                    <i class="fas fa-meh four"></i><p4>Your 0.02 bid is above the current unique bid</p4> -->
                     </div>           
                 </div>         
         <div>    
@@ -198,10 +198,14 @@
                 <div class="row"> 
 
                     <div class="col-md-6 col-sm-12">
-                        <div class="past-cmptn-container float-right"> 
-                            <h1 class="text-center">past competition</h1>
+                      <div class="past-cmptn-text float-right" style="width: 678px; height: 48px;"> 
+                      <div class="center-text text-center">         
+                            <h1  style="238px;height: 48px;">past competition</h1>
+                      </div>      
+                    </div>
 
-                           <div class="past-cmptn">
+                   <div class="past-cmptn-container float-right"> 
+                          <div class="past-cmptn">
                                <div class="content p-4">
                                <img src="img/Ad sample.jpg" alt="past-sample-img" class="img-fluid">
 
@@ -221,15 +225,23 @@
                                  
                            </div>
 
-                        </div>   
+                        </div>
                     </div> 
 
 
                     <div class="col-md-6 col-sm-12">
-                    <div class="upcoming-cmptn-container float-left">
-                    <h1 class="text-center">upcoming competition</h1>
 
-                        <div class="upcoming-cmptn">
+                    <div class="upcoming-cmptn-text float-left"  style="width: 678px; height: 48px;"> 
+                      <div class="center-text text-center">         
+                      <h1  style="238px;height: 48px;">upcoming competition</h1>
+                      </div>      
+                    </div>
+
+
+                    <div class="upcoming-cmptn-container float-left">
+                    
+
+                     <div class="upcoming-cmptn">
                         <div class="content p-4">
                                <div class="past-sample-img">
                                <img src="img/Ad sample.jpg" alt="past-sample-img" class="img-fluid">
@@ -285,7 +297,64 @@
 </div>
 
         </div>
-    </section>   
+    </section>  
+    
+    <footer>
+
+<div class="container-fluid">
+    <div class="row">
+        <div class="container">
+
+            <div class="row">
+
+                <div class="col-md-12 col-sm-12">
+                    <div class="terms">
+                        <div class="terms-align mr-5 ml-5">
+                            <span>Terms & Conditions |</span>
+                            <span>Privacy Policy |</span>
+                            <span>FAQ</span>
+                        </div>  
+                        
+                        <div class="social-icons">
+                            <img src="img/social-icons.png" alt="social-icons-img" class="img-fluid">
+                        </div>    
+                                           </div>   
+                </div>  
+                
+            </div> 
+            
+            <div class="row">
+
+                <div class="col-md-6 col-sm-6">
+                    <div class="contact">
+                        <span>Contact : support@winbid.lk</span>
+
+                        <br>
+                        <span>&copy winbid.lk All right reserved developed by <a href="https://aihe.lk/" att="">attrex</a></span>
+                  </div>   
+                </div>  
+
+                <div class="col-md-6 col-sm-6">
+                    <div class="payments">
+                        <span>We Accept</span>
+                        <br>
+                        <div class="visacard d-inline-block">
+                        <img src="img/visa.png" alt="social-icons-img" class="img-fluid">
+                        </div>
+                        <div class="mastercard d-inline-block">
+                        <img src="img/mastercard.png" alt="social-icons-img" class="img-fluid">
+                      </div>
+                  </div>   
+                </div>  
+                
+            </div>  
+
+        </div>   
+    </div>   
+
+</div>
+
+</footer>
 
 
 </body>
