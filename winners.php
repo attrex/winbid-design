@@ -44,6 +44,12 @@
                          <span>2020-09-16</span>
                         </div>
 
+                        <div class="winner-name float-left">
+                            <h3>MALEESHA PATHIRANA</h3>
+                        </div>
+
+
+
                     </div>   
 
                     <div class="col-md-12 col-sm-12 mt-5"> 
@@ -63,7 +69,18 @@
                         <div class="winner-mark float-left">
                         <img src="img/winner.png" alt="winner-mark" class="img-fluid">
                         </div> 
+                        
+                        <div class="won-bid">
+                            <h3>winnind bid : 0.12</h3>
+                         </div>  
+                         
+                         <div class="won-date text-center">
+                         <span>2020-09-16</span>
+                        </div>
 
+                        <div class="winner-name float-left">
+                            <h3>MALEESHA PATHIRANA</h3>
+                        </div>
                         
                     </div>   
 
@@ -84,6 +101,18 @@
                         <div class="winner-mark float-left">
                         <img src="img/winner.png" alt="winner-mark" class="img-fluid">
                         </div> 
+
+                        <div class="won-bid">
+                            <h3>winnind bid : 0.12</h3>
+                         </div>  
+                         
+                         <div class="won-date text-center">
+                         <span>2020-09-16</span>
+                        </div> 
+                        
+                        <div class="winner-name float-left">
+                            <h3>MALEESHA PATHIRANA</h3>
+                        </div>
 
 
                     </div>   

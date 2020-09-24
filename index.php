@@ -315,10 +315,13 @@
                             <span>FAQ</span>
                         </div>  
                         
-                        <div class="social-icons">
-                            <img src="img/social-icons.png" alt="social-icons-img" class="img-fluid">
+                        <div class="social-icons d-inline-block">
+                        <i class="fab fa-facebook pr-2"></i>
+                        <i class="fab fa-instagram pr-2"></i>
+                        <i class="fab fa-whatsapp"></i>
+
                         </div>    
-                                           </div>   
+                    </div>   
                 </div>  
                 
             </div> 

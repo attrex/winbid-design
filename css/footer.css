@@ -1,0 +1,82 @@
+footer{
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    opacity: 1;
+ }
+
+.terms{
+    width: 675px;
+    height: 150px;
+    margin-left: 215px;
+    margin-right: 215px;
+    text-align: center;
+}
+
+.terms-align{
+    width: 580px;
+    height: 35px;
+}
+
+.terms-align span{
+    font: normal normal normal 19px/34px Open Sans;
+    letter-spacing: 0px;
+    color: #5B5B5B;
+    opacity: 1;
+}
+
+.social-icons i{
+    font-size: 30px;
+    color: #5B5B5B;
+    
+}
+
+.contact{
+    width: 368px;
+    height: 80px;
+}
+
+.payments{
+    width: 248px;
+    height: 80px;
+    float: right; 
+}
+
+.contact a{
+    text-decoration: none;
+    color: #5B5B5B;
+
+}
+
+.contact a:hover{
+     color:  #D83434;
+}
+
+.contact span{
+    font: normal normal normal 16px/34px Open Sans;
+    letter-spacing: 0px;
+    color: #5B5B5B;
+    opacity: 1;
+}
+
+.visacard img{
+    width: 68px;
+    height: 21px;
+}
+
+.mastercard img{ 
+    width: 51px;
+    height: 31px;
+}
+
+.payments span{
+    font: normal normal normal 16px/34px Open Sans;
+    letter-spacing: 0px;
+    color: #5B5B5B;
+    opacity: 1;
+    padding-left: 42px;;
+}
+
+footer{
+    width: 100%;
+    min-height: 330px;
+    height: auto;
+}
