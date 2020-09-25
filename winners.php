@@ -9,7 +9,7 @@
     <div class="container-fluid">
         <div class="row">
             <div class="container">
-                <div class="row">
+                <div class="row pt-5">
 
                     <div class="col-md-12 col-sm-12  text-center">
                         <div class="winner-text">
@@ -18,7 +18,7 @@
                     </div>
 
             
-                    <div class="col-md-12 col-sm-12"> 
+                    <div class="col-md-12 col-sm-12 pt-5"> 
                     <div class="winner-frame mx-auto">
 
                         <div class="won-item-img p-4 float-left">
@@ -44,9 +44,14 @@
                          <span>2020-09-16</span>
                         </div>
 
-                        <div class="winner-name float-left">
-                            <h3>MALEESHA PATHIRANA</h3>
+                        <div class="winner-name py-1">
+                            <h3>maleesha pathirana</h3>
                         </div>
+
+                        <div class="winner-place py-1">
+                            <h3>kaluthara</h3>
+                        </div>
+
 
 
 
@@ -78,8 +83,12 @@
                          <span>2020-09-16</span>
                         </div>
 
-                        <div class="winner-name float-left">
+                        <div class="winner-name py-1">
                             <h3>MALEESHA PATHIRANA</h3>
+                        </div>
+
+                        <div class="winner-place py-1">
+                            <h3>kaluthara</h3>
                         </div>
                         
                     </div>   
@@ -110,8 +119,12 @@
                          <span>2020-09-16</span>
                         </div> 
                         
-                        <div class="winner-name float-left">
+                        <div class="winner-name py-1">
                             <h3>MALEESHA PATHIRANA</h3>
+                        </div>
+
+                        <div class="winner-place py-1">
+                            <h3>kaluthara</h3>
                         </div>
 
 
@@ -123,5 +136,66 @@
         </div>    
     </div>   
 </section>
+
+<footer>
+
+<div class="container-fluid">
+    <div class="row">
+        <div class="container">
+
+            <div class="row">
+
+                <div class="col-md-12 col-sm-12">
+                    <div class="terms">
+                        <div class="terms-align mr-5 ml-5">
+                            <span>Terms & Conditions |</span>
+                            <span>Privacy Policy |</span>
+                            <span>FAQ</span>
+                        </div>  
+                        
+                        <div class="social-icons d-inline-block">
+                        <i class="fab fa-facebook pr-2"></i>
+                        <i class="fab fa-instagram pr-2"></i>
+                        <i class="fab fa-whatsapp"></i>
+
+                        </div>    
+                    </div>   
+                </div>  
+                
+            </div> 
+            
+            <div class="row">
+
+                <div class="col-md-6 col-sm-6">
+                    <div class="contact">
+                        <span>Contact : support@winbid.lk</span>
+
+                        <br>
+                        <span>&copy winbid.lk All right reserved developed by <a href="https://aihe.lk/" att="">attrex</a></span>
+                  </div>   
+                </div>  
+
+                <div class="col-md-6 col-sm-6">
+                    <div class="payments">
+                        <span>We Accept</span>
+                        <br>
+                        <div class="visacard d-inline-block">
+                        <img src="img/visa.png" alt="social-icons-img" class="img-fluid">
+                        </div>
+                        <div class="mastercard d-inline-block">
+                        <img src="img/mastercard.png" alt="social-icons-img" class="img-fluid">
+                      </div>
+                  </div>   
+                </div>  
+                
+            </div>  
+
+        </div>   
+    </div>   
+
+</div>
+
+</footer>
+
 
 </body>

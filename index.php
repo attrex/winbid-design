@@ -113,7 +113,7 @@
     <section id="one">
         <div class="conatainer-fluid">
             <div class="container">
-                <div class="row">
+                <div class="row pt-5">
                     <div class="col-md-12 col-sm-12">
                         <div class="caption-text">
                             <h1 class="sample-text">Win iPhone 11 Pro</h1> 

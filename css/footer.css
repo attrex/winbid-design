@@ -37,7 +37,8 @@ footer{
 .payments{
     width: 248px;
     height: 80px;
-    float: right; 
+    float: right;
+    padding-left: 120px;
 }
 
 .contact a{
@@ -80,3 +81,5 @@ footer{
     min-height: 330px;
     height: auto;
 }
+
+
