@@ -6,8 +6,10 @@
     <link rel="stylesheet" href="css/bootstrap.min.css" type="text/css" />
     <link rel="stylesheet" href="css/custom.css" type="text/css" />
     <link rel="stylesheet" href="css/header.css" type="text/css" />
+    <link rel="stylesheet" href="css/how-to-win.css" type="text/css"/>
     <link rel="stylesheet" href="css/winner.css" type="text/css" />
     <link rel="stylesheet" href="css/packages.css" type="text/css" />
+    <link rel="stylesheet" href="css/bid-history.css" type="text/css" />
     <link rel="stylesheet" href="css/footer.css" type="text/css" />
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
     <!--- fontawesome --->
@@ -62,7 +64,7 @@
                         <li><a href="./winners.php">Winners</a></li>
                         <li><a href="./packages.php">Packages</a></li>
                         <li>
-                            <a href="#">Bid History</a>
+                            <a href="./bid-history.php">Bid History</a>
                             <!-- First Tier Drop Down -->
                             <ul>
                                 <li><a href="#">Resources</a></li>

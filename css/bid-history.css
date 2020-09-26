@@ -1,0 +1,43 @@
+.bidhistory-heading h1{
+    font: normal normal bold 35px/45px Open Sans;
+    letter-spacing: 0px;
+    color: #231F20;
+    text-transform: uppercase;
+    opacity: 1;
+}
+
+
+
+.table-head{
+    background: transparent linear-gradient(180deg, #FDD311 0%, #F89C1C 100%) 0% 0% no-repeat padding-box;
+    opacity: 1;
+    color: #ffffff;
+    font: normal normal bold 18px/45px Open Sans;
+    width: 886px;
+    height: 43px;
+}
+
+table tr{
+    text-align: center;
+    border: 1px solid #EBEBEB;
+}
+
+table td{
+    font: normal normal normal 14px/45px Open Sans;
+    letter-spacing: 0px;
+    color: #231F20;
+    opacity: 1;
+}
+
+table td:last-child{
+    font: normal normal bold 14px/45px Open Sans;
+    letter-spacing: 0px;
+    color: #5B5B5B;
+}
+
+table {
+    border-collapse: collapse;
+    border-radius: 22px 22px 0px 0px;
+    overflow: hidden;
+  }
+  

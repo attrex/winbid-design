@@ -316,8 +316,8 @@
                         </div>  
                         
                         <div class="social-icons d-inline-block">
-                        <i class="fab fa-facebook pr-2"></i>
-                        <i class="fab fa-instagram pr-2"></i>
+                        <i class="fab fa-facebook mr-2"></i>
+                        <i class="fab fa-instagram mr-2"></i>
                         <i class="fab fa-whatsapp"></i>
 
                         </div>    
