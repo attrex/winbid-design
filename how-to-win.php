@@ -40,7 +40,7 @@
                     </div>    
                 </div> 
 
-                <div class="col-md-12 col-sm-12">
+                <div class="col-md-12 col-sm-12 mb-5">
                     <div class="bid-steps p-3">
                     <span></span>
                         <p>When your bid bucket is empty, you can click on “+” mark of bid bucket or can go to the Packages to purchase bids. You can be obtained more bids from the various packages we have        provided, after paying money via your credit or debit card.</p>
@@ -49,9 +49,20 @@
 
 
             </div> 
-            
 
-</section>      
+            <div class="row mt-5">
+                <div class="col-md-12">
+
+            <div class="be-a-winner p-3">
+                <h1>Place the Lowest and Unique BID & Be a Winner!</h1>
+            </div>
+        </div>
+    </div>
+            
+</section>    
+
+
+
 
 <footer>
 

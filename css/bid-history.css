@@ -12,7 +12,7 @@
     background: transparent linear-gradient(180deg, #FDD311 0%, #F89C1C 100%) 0% 0% no-repeat padding-box;
     opacity: 1;
     color: #ffffff;
-    font: normal normal bold 18px/45px Open Sans;
+    /*font: normal normal bold 18px/45px Open Sans;*/
     width: 886px;
     height: 43px;
 }
