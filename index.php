@@ -310,7 +310,7 @@
                 <div class="col-md-12 col-sm-12">
                     <div class="terms">
                         <div class="terms-align mr-5 ml-5">
-                            <span><a href="">Terms & Conditions |</a></span>
+                            <span  class="terms-and-conditions"><a href="">Terms & Conditions |</a></span>
                             <span>Privacy Policy |</span>
                             <span>FAQ</span>
                         </div>  

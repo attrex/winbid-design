@@ -8,13 +8,13 @@
 
 .q-container{
     width: 1140px;
-    height: 1065px;
+    height: 900px;
     background: transparent linear-gradient(180deg, #F1F1F1 0%, #FFFFFF 100%) 0% 0% no-repeat padding-box;
     border: 1px solid #F3F3F3;
     border-radius: 20px;
 }
 
-.q-container .content{
+.q-container .faq-content{
     text-align: left;
     float: left;
     padding-bottom: 30px;
@@ -26,21 +26,27 @@
     letter-spacing: 0px;
     color: #231F20;
     opacity: 1;
+    min-width: 1042px;
    
 }
 
-.content p{
+.faq-content p{
     font: normal normal normal 18px/25px Open Sans;
     letter-spacing: 0px;
     color: #231F20;
     opacity: 1;
-    padding-left: 50px;
+    padding-left: 70px;
     float:left;
     
 }
 
-.content i{
-    float:left;
-    color: #88bd20; 
-    font-size: 30px;
+.faq-content span{
+    width: 20px; 
+    height: 20px;
+    background: transparent linear-gradient(180deg, #A5E228 0%, #359200 100%) 0% 0% no-repeat padding-box;
+    opacity: 1;
+    border-radius: 50%;
+    display: block;
+    float: left;
+    margin: 8px 15px;
 }
