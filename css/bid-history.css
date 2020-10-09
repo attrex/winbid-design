@@ -41,3 +41,9 @@ table {
     overflow: hidden;
   }
   
+@media (max-width: 576px){
+  .bidhistory-heading h1{
+    font: normal normal bold 23px/30px Open Sans;
+
+  }
+}

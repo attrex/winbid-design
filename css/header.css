@@ -196,3 +196,29 @@ li > a:after {
 li > a:only-child:after {
     content: "";
 }
+
+@media (max-width: 678px) {
+    #desktopview{
+        visibility: hidden;
+    }
+
+    .signin .sign-btn .sign-btn-text{
+        margin: 0 !important;
+        font-size: 15px;
+        padding: 0px 30px;
+    }
+}
+
+@media (min-width: 678px) {
+    #mobileview {
+        display: none;
+    }
+}
+
+@media (max-width: 1162px) and (min-width: 768px){
+    nav a{
+        padding: 0 5px;
+    }
+
+    
+}

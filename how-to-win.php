@@ -15,35 +15,35 @@
                 <div class="col-md-12 col-sm-12">
                     <div class="bid-steps p-3">
                     
-                    <span></span>   <p>Click on “Add your BID” button. Though you’re a registered person, system will be displayed a login panel.</p>
+                    <span></span>   <p>If you wish to bid, you have to click on login button and get done with the login process.</p>
                     </div>    
                 </div> 
                 
                 <div class="col-md-12 col-sm-12">
                     <div class="bid-steps p-3">
                     <span></span>
-                        <p>If you’re not a registered person, you should click on “Register” button and add your mobile number and a password. Then you can become a member of WinBid & can get free 5 bids.</p>
+                        <p>You can login easily by entering your mobile number and password, if you’re a registered person.</p>
                     </div>    
                 </div> 
 
                 <div class="col-md-12 col-sm-12"> 
                     <div class="bid-steps p-3">
                     <span></span>
-                        <p>If you’re a registered person, you can login easily by entering your mobile number and password.</p>
+                        <p>You should click on “Register” and get registered. Newly registered members areentitled for free 5 bids</p>
                     </div>    
                 </div> 
 
                 <div class="col-md-12 col-sm-12">
                     <div class="bid-steps p-3">
                     <span></span>
-                        <p>Now you can select your prize and enter values with two decimal places. Then click on “Add your BID” button.</p>
+                        <p>Now you can enter values with two decimal places in “Place Your Bid Here” space and click on Submit button. Ex: 0.01</p>
                     </div>    
                 </div> 
 
                 <div class="col-md-12 col-sm-12 mb-5">
                     <div class="bid-steps p-3">
                     <span></span>
-                        <p>When your bid bucket is empty, you can click on “+” mark of bid bucket or can go to the Packages to purchase bids. You can be obtained more bids from the various packages we have        provided, after paying money via your credit or debit card.</p>
+                        <p>When the bid limit is exceeded, purchase more bids by clicking Packages tab inmenu bar or ‘+’ mark. You can choose preferred bid count that suits you from thevarious packages we have provided.(Note – Payments are only accepted via credit or debit cards.)</p>
                     </div>    
                 </div> 
 
@@ -74,7 +74,7 @@
 
                 <div class="col-md-12 col-sm-12">
                     <div class="terms">
-                        <div class="terms-align mr-5 ml-5">
+                        <div class="terms-align">
                             <span  class="terms-and-conditions"><a href="">Terms & Conditions |</a></span>
                             <span>Privacy Policy |</span>
                             <span>FAQ</span>

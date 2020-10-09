@@ -17,32 +17,32 @@
                 <div class="q-container p-5">
                     <div class="faq-content">
                     <span></span><h3>What is WinBid?</h3>
-                       <p>WinBid is an online reverse bidding platform. Anyone who registers on our website, hasthe ability to give a value with two decimal places for any prize we offer.</p> 
+                       <p>WinBid is an online reverse bidding platform. Anyone who registers on our website, has theability to give a value with two decimal places for any prize we offer.</p> 
                     </div>
                     
                     <div class="faq-content">
                     <span></span><h3>How to participate in a contest?</h3>
-                      <p>When   you   visit   the   WinBid   website,   first   you   must   enter   your   active   mobile   phonenumber.   Then   after   enter   the   OTP   number   which   you   received.   If   you   registersuccessfully, you will receive 10 free bids</p> 
+                      <p>When you visit the WinBid website, first you must enter your active mobile phone number. Thenafter enter the OTP number which you have received. Every successful registration will receive 5bids free.</p> 
                     </div>  
 
                     <div class="faq-content">
                     <span></span><h3>How to buy bids?</h3>
-                      <p>After   completing   the   10   free   bids,   you   can   be   obtained   more   bids   from   the   variouspackages we have provided, after paying cash via phone sims.</p> 
+                      <p>Upon completion of 5 free bids choose a package that suits you and purchase via credit or debitcard.</p> 
                     </div>  
 
                     <div class="faq-content">
                     <span></span><h3>How you should bid?</h3>
-                       <p>You must give a value of two decimal places or several values for a prize we offer</p> 
+                       <p>You must give a value of two decimal places or several values for a prize we offer.</p> 
                     </div>  
 
                     <div class="faq-content">
                     <span></span><h3>How to view previously submitted bids?</h3>
-                      <p>Click the bid history button</p> 
+                      <p>Click the bid history button in the menu bar</p> 
                     </div>  
 
                     <div class="faq-content">
-                    <span></span><h3>How do I get to know if I am the winner of the contest?</h3>
-                       <p>At the end of the contest, we will notify the winner on our website and in addition wewill contact the winner within 7 days by a phone call.</p> 
+                    <span></span><h3>How do I know if I am the winner of the contest?</h3>
+                       <p>At the end of the contest, we will announce the winner on our website and within 7 days we willcontact through a personalized call.</p> 
                     </div>  
 
                 </div>    

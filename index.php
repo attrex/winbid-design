@@ -111,10 +111,11 @@
     </footer>-->
 
     <section id="one">
-        <div class="conatainer-fluid">
+        <div class="container-fluid">
+        <div class="row">
             <div class="container">
                 <div class="row pt-5">
-                    <div class="col-md-12 col-sm-12">
+                    <div class="col-md-12 col-sm-12 d-block d-md-block">
                         <div class="caption-text">
                             <h1 class="sample-text">Win iPhone 11 Pro</h1> 
                             <h1>by placing the Unique & the Lowest BID</h1>
@@ -122,12 +123,12 @@
                     </div>    
                 </div>
                 <div class="row pt-5">
-                    <div class="col-md-6 col-sm-12">
+                    <div class="col-md-6 col-sm-12 d-block d-md-block">
                         <div class="sample-img">
                             <img src="img/Ad sample.jpg" alt="sample-img" class="img-fluid">
                         </div>   
                     </div>
-                    <div class="col-md-6 col-sm-12">
+                    <div class="col-md-6 col-sm-12 d-block d-md-block">
                         <div class="timer-area">
                             <div class="end-time pt-3 pb-3">
                                 <div class="time-frame-status">
@@ -174,11 +175,11 @@
                               <h3>place values above 0.01</h3>
                           </div>    
                     </div>
-                    <div class="place-bid d-flex">
+                    <div class="place-bid">
                         <div class="bid-here">
                         <input type="text" id="" name="" placeholder="Place Your Bid Here"> 
                         </div> 
-                        <div class="submit-btn ml-3 mx-auto">
+                        <div class="submit-btn">
                         <button type="button">submit</button>
                         </div>        
                     </div>
@@ -189,11 +190,12 @@
                     <i class="fas fa-meh four"></i><p4>Your 0.02 bid is above the current unique bid</p4> -->
                     </div>           
                 </div>         
-        <div>    
+        <div>  
+        </div>  
         </div>   
     </section>
 
-    <section id ="one" class="bg-color">
+ <!-- <section id ="one" class="bg-color">
         <div class="container-fluid">
                 <div class="row"> 
 
@@ -229,9 +231,9 @@
                     </div> 
 
 
-                    <div class="col-md-6 col-sm-12">
+                  <div class="col-md-6 col-sm-12">
 
-                    <div class="upcoming-cmptn-text float-left"  style="width: 678px; height: 48px;"> 
+                    <div class="upcoming-cmptn-text"  style="width: 678px; height: 48px;"> 
                       <div class="center-text text-center">         
                       <h1  style="238px;height: 48px;">upcoming competition</h1>
                       </div>      
@@ -297,9 +299,132 @@
 </div>
 
         </div>
-    </section>  
+    </section>-->
+
+    <div class="container-fluid bg-color">
+     <div class="row">
+     <div class="container">
+     <div class="row">    
+        <div class="col-md-6">
+        <div class="row">
+        <div class="col-md-12 mx-auto">
+        <div class="cmptn-heading">
+                <h1>past competition</h1>
+            </div>
+        </div>     
+</div>
+            <div class="past-cmptn p-3">
+                <div class="row m-1">
+                <div class="col-md-5 p-0">
+                <div class="cmptn-sample-img">
+                    <img src="img/Ad sample.jpg" alt="past-sample-img" class="img-fluid">
+                </div>
+                </div>
+
+                <div class="col-md-7">
+                <div class="col-md-12 past-cmptn-item mr-3 ml-3">
+                            <h3>Apple iPhone 11</h3>
+                    </div>  
+                    
+                <div class="col-md-12 winning-bid">
+                    <span>Winning BID</span>
+                    <small>11.25</small>
+                </div>  
+                
+                <div class="col-md-12">
+                    <div class="winner-tag mr-3 ml-3">
+                    <h3>Winner</h3>
+                    </div>   
+                </div>   
+                
+                </div> 
+                
+</div>   
+
+
+            </div>
+        </div> 
+
+        <div class="col-md-6">
+        <div class="row">
+         
+
+         <div class="col-md-12 mx-auto">
+             <div class="cmptn-heading">
+                 <h1>upcoming competition</h1>
+             </div>   
+         </div>
+
+</div>
+        <div class="upcoming-cmptn p-3">
+            <div class="row m-1">
+                <div class="col-md-5 p-0">
+                <div class="cmptn-sample-img">
+                    <img src="img/Ad sample.jpg" alt="past-sample-img" class="img-fluid">
+                </div>
+                </div>
+
+                <div class="col-md-7">
+                    <div class="col-md-12 past-cmptn-item">
+                            <h3>Apple iPhone 11</h3>
+                    </div> 
+                    
+                    <div class="col-md-12 cmptn-start-time">
+                    <span>Competition Starts in</span>
+                    </div> 
+
+                    <div class="col-md-12">
+
+                    <div class="upcoming-time-frame display-flex">
+                                    <div class="upcoming-time-slot float-left">
+                                        <div class="upcoming-time-display">
+                                            <div class="no py-3">15</div>
+                                        </div>
+                                        <span>DAYS</span>   
+                                    </div>
+                                    <span class="dots py-2" style="font: normal normal bold 35px/35px Open Sans;">:</span>
+                                    <div class="upcoming-time-slot float-left">
+                                        <div class="upcoming-time-display">
+                                        <div class="no py-3">02</div>
+                                        </div>
+                                        <span>HOURS</span>  
+                                    </div>
+                                    <span class="dots py-2" style="font: normal normal bold 35px/35px Open Sans;">:</span>
+                                    <div class="upcoming-time-slot float-left">
+                                        <div class="upcoming-time-display">
+                                        <div class="no py-3">39</div>
+                                        </div>
+                                        <span>MINUTES</span>   
+                                    </div>
+                                    <span class="dots py-2" style="font: normal normal bold 35px/35px Open Sans;">:</span>
+                                    <div class="upcoming-time-slot float-left">
+                                        <div class="upcoming-time-display">
+                                        <div class="no py-3">55</div>
+                                        </div>
+                                        <span>SECONDS</span>   
+                                    </div>
+                                </div>       
+
+
+
+                    </div>    
+
+                </div> 
+</div>      
+
+</div>
+            </div>
+        </div> 
+        </div>
+        </div>    
+     
+</div>
+  
+
+
+
     
-    <footer>
+  <footer class="pt-5">
 
 <div class="container-fluid">
     <div class="row">
@@ -309,7 +434,7 @@
 
                 <div class="col-md-12 col-sm-12">
                     <div class="terms">
-                        <div class="terms-align mr-5 ml-5">
+                        <div class="terms-align">
                             <span  class="terms-and-conditions"><a href="">Terms & Conditions |</a></span>
                             <span>Privacy Policy |</span>
                             <span>FAQ</span>

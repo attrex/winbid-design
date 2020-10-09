@@ -8,12 +8,9 @@
 }
 
 .bid-steps{
-    width: 1128px;
-    height: auto;
     background: transparent linear-gradient(180deg, #F1F1F1 0%, #FFFFFF 100%) 0% 0% no-repeat padding-box;
     border: 1px solid #F3F3F3;
     border-radius: 20px;
-    display: inline-block; 
     margin-top: 50px;
 }
 
@@ -37,8 +34,6 @@
 }
 
 .be-a-winner{
-    width: 956px;
-    height: 90px;
     background: transparent linear-gradient(180deg, #A5E228 0%, #359200 100%) 0% 0% no-repeat padding-box;
     border-radius: 45px;
     opacity: 1;
@@ -52,4 +47,57 @@
     letter-spacing: 0px;
     color: #FFFFFF;
     opacity: 1;
+}
+
+@media (max-width: 1200px) and (min-width: 768px){
+    .be-a-winner {
+        background: transparent linear-gradient(180deg, #A5E228 0%, #359200 100%) 0% 0% no-repeat padding-box;
+        margin: 0px;
+        padding: 15px!important;
+     
+}
+
+.bid-steps span{
+    margin: 8px 25px 78px;
+}
+
+.bid-steps p {
+    font: normal normal normal 25px/30px Open Sans;
+
+}
+
+}
+
+@media (max-width: 992px) and (min-width: 53px){
+.be-a-winner h1 {
+    font: normal normal bold 23px/30px Open Sans;
+}
+
+
+.bid-steps span{
+    margin: 8px 25px 129px;
+}
+
+.bid-steps p {
+    font: normal normal normal 20px/30px Open Sans;
+
+}
+
+.bid-heading h1{
+    font: normal normal bold 26px/33px Open Sans;
+}
+
+.be-a-winner{
+    margin: 0;
+   
+}
+
+}
+
+@media (max-width: 496px) and (min-width: 53px){
+    .bid-steps span{
+       width: 0;
+       height: 0;
+       margin: 0;
+    }
 }

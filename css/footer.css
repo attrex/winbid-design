@@ -4,10 +4,9 @@ footer{
  }
 
 .terms{
-    width: 675px;
-    height: 150px;
     margin-left: 215px;
     text-align: center;
+    margin-right: 215px;
 }
 
 .terms-align span a{
@@ -20,10 +19,7 @@ footer{
 }
 
 
-.terms-align{
-    width: 580px;
-    height: 35px;
-}
+
 
 .terms-align span{
     font: normal normal normal 19px/34px Open Sans;
@@ -38,14 +34,9 @@ footer{
     
 }
 
-.contact{
-    width: 368px;
-    height: 80px;
-}
 
 .payments{
-    width: 248px;
-    height: 80px;
+   
     float: right;
     padding-left: 120px;
 }
@@ -90,5 +81,68 @@ footer{
     min-height: 330px;
     height: auto;
 }
+
+
+@media (max-width: 576px){
+    
+}
+
+    
+
+    @media (max-width:992px) and (min-width: 575px){
+        .terms{
+            margin: 0 !important;
+        }
+
+        .payments span{
+            padding: 0;
+        }
+
+        .contact .payments{
+            margin-top: 5px;
+        }
+
+        .row {
+            margin-right: -15px;
+            margin-left: -15px;
+            margin-top: 20px;
+        }
+    }
+
+    @media (max-width: 575px) and (min-width: 53px){
+        .terms{
+            margin-left: 0;
+            margin-right: 0;
+            padding: 0;
+        }
+
+        .contact{
+            margin-top: 20px;
+            text-align: center;
+        }
+
+
+        .terms{
+            margin-left: 0;
+            margin-right: 0;
+        }
+    
+       
+        .payments {
+    
+            float: none !important;
+            margin-top: 50px;
+            padding-left: 0;
+            text-align: center;
+        }
+
+        .payments span{
+            padding-left:  0;
+        }
+    }
+
+
+    
+
 
 

@@ -5,7 +5,7 @@
 
     <?php require_once('header.php'); ?>
 
-<section>
+<!---<section>
     <div class="container-fluid">
         <div class="row">
             <div class="container">
@@ -135,9 +135,147 @@
             </div>   
         </div>    
     </div>   
-</section>
+</section>-->
 
-<footer>
+<div class="ontainer-fluid">
+    <div class="row">
+        <div class="col-md-12 winners-heading text-center">
+             <h1>Winners</h1>
+        </div>    
+    </div>
+    <div class="row mb-5">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12 winners-container p-3" style="">
+                <div class="row p-3">
+
+                    <div class="col-md-4 winner-item-img">
+                        <img src="img/Ad sample.jpg" alt="" class="img-fluid mb-3">
+                        <h3>Brand New Apple iPhone 11 Pro 256GB</h3>
+                    </div>
+
+                    <div class="col-md-5">
+                    <img src="img/photo-sample.png" alt="winner-img" class="img-fluid">
+                    </div>
+
+                    <div class="col-md-3">
+                        <div class="col-md-12">
+                    <img src="img/winner.png" alt="winner-mark" class="img-fluid">
+                        </div>
+                        <div class="col-md-12 win-bid">
+                            <h3>winning bid : 0.12</h3>
+                            
+                        </div> 
+                        <div class="col-md-12 win-date text-center">
+                            <small>2020-09-16</small>
+                        </div>
+                        <div class="col-md-12 winner-name">
+                            <h3>maleesha pathirana</h3>
+                        </div>
+
+                        <div class="col-md-12 winner-place">
+                            <h3>kaluthara</h3>
+
+                        </div>
+                    </div>   
+                </div>   
+
+            </div>   
+        </div>
+</div>    
+    </div>   
+
+    <div class="row mb-5">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12 winners-container p-3" style="">
+                <div class="row p-3">
+
+                    <div class="col-md-4 winner-item-img">
+                        <img src="img/Ad sample.jpg" alt="" class="img-fluid mb-3">
+                        <h3>Brand New Apple iPhone 11 Pro 256GB</h3>
+                    </div>
+
+                    <div class="col-md-5">
+                    <img src="img/photo-sample.png" alt="winner-img" class="img-fluid">
+                    </div>
+                    
+                    <div class="col-md-3">
+                        <div class="col-md-12">
+                    <img src="img/winner.png" alt="winner-mark" class="img-fluid">
+                        </div>
+                        <div class="col-md-12 win-bid">
+                            <h3>winning bid : 0.12</h3>
+                        </div>   
+                        <div class="col-md-12 win-date text-center">
+                            <small>2020-09-16</small>
+                        </div> 
+                        <div class="col-md-12 winner-name">
+                            <h3>maleesha pathirana</h3>
+                        </div>
+
+                        <div class="col-md-12 winner-place">
+                            <h3>kaluthara</h3>
+
+                        </div>
+                    </div>   
+                </div>   
+
+            </div>   
+        </div>
+</div>    
+    </div>   
+
+    <div class="row">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12 winners-container p-3" style="">
+                <div class="row p-3">
+
+                    <div class="col-md-4 winner-item-img">
+                        <img src="img/Ad sample.jpg" alt="" class="img-fluid mb-3">
+                        <h3>Brand New Apple iPhone 11 Pro 256GB</h3>
+                    </div>
+
+                    <div class="col-md-5">
+                    <img src="img/photo-sample.png" alt="winner-img" class="img-fluid">
+                    </div>
+                    
+                    <div class="col-md-3">
+                        <div class="col-md-12">
+                    <img src="img/winner.png" alt="winner-mark" class="img-fluid">
+                        </div>
+                        <div class="col-md-12 win-bid">
+                            <h3>winning bid : 0.12</h3>
+                        </div> 
+                        <div class="col-md-12 win-date text-center">
+                            <small>2020-09-16</small>
+                        </div>
+                        <div class="col-md-12 winner-name">
+                            <h3>maleesha pathirana</h3>
+                        </div>
+
+                        <div class="col-md-12 winner-place">
+                            <h3>kaluthara</h3>
+
+                        </div>
+
+                    </div>   
+                </div>   
+
+            </div>   
+        </div>
+</div>    
+    </div>   
+    
+</div>  
+        
+        
+       
+
+
+
+<footer class="pt-5">
 
 <div class="container-fluid">
     <div class="row">
@@ -147,7 +285,7 @@
 
                 <div class="col-md-12 col-sm-12">
                     <div class="terms">
-                        <div class="terms-align mr-5 ml-5">
+                        <div class=" mr-5 ml-5">
                             <span  class="terms-and-conditions"><a href="">Terms & Conditions |</a></span>
                             <span>Privacy Policy |</span>
                             <span>FAQ</span>

@@ -29,7 +29,7 @@
                                <span>bids</span>
                         </div> 
 
-                        <div class="activate-btn text-center">
+                        <div class="activate-btn text-center mb-5">
                             <button type="button">activate</button>
                         </div>   
 
@@ -53,7 +53,7 @@
                                <span>bids</span>
                         </div>  
 
-                        <div class="activate-btn text-center">
+                        <div class="activate-btn text-center mb-5">
                             <button type="button">activate</button>
                         </div>   
 
@@ -77,7 +77,7 @@
                                <span>bids</span>
                         </div> 
 
-                        <div class="activate-btn text-center">
+                        <div class="activate-btn text-center mb-5">
                             <button type="button">activate</button>
                         </div>   
 

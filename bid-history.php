@@ -174,7 +174,7 @@
 
                 <div class="col-md-12 col-sm-12">
                     <div class="terms">
-                        <div class="terms-align mr-5 ml-5">
+                        <div class="terms-align">
                             <span>Terms & Conditions |</span>
                             <span>Privacy Policy |</span>
                             <span>FAQ</span>
